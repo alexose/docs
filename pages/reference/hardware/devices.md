@@ -63,15 +63,15 @@ __Warning:__ HDMI is currently not supported on the Odroid XU4.
 
 ![Technologic TS-4900](/img/ts-4900.jpg)
 
+### [UP board](http://www.up-board.org/up/), [UP squared](http://www.up-board.org/upsquared/), and [UP core](http://www.up-board.org/upcore/)
+
+![UP board](/img/up-board/up-board.png)
+
 ## Beta Support
 
 ### [Variscite DART-6UL](http://www.variscite.com/products/system-on-module-som/cortex-a7/dart-6ul-freescale-imx-6ul)
 
 ![DART-6UL](/img/dart6ul.jpg)
-
-### [UP board](http://www.up-board.org/up/)
-
-![UP board](/img/up-board/up-board.png)
 
 ### [Rushup Kitra 520](https://www.rushup.tech/kitra520/)
 
